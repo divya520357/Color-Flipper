@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+
+.color-des{
+    background-color: black;
+    border-radius: 20px;
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    font-size: larger;
+}
+
+.change-color{
+    background-color: aliceblue;
+    border: none;
+    border-radius: 0.2rem;
+    padding: 0rem 0.5rem;
+    cursor: pointer;
+    font-family: 'Ms Madi', cursive;
+    font-size: 2rem;
+}
